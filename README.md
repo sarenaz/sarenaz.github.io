@@ -1,6 +1,6 @@
 # Hello Page
 
-I'm reusing this template borrowed from here:
+I borrowed the template from here:
 
 <img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
 
